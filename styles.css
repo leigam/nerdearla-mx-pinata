@@ -14,10 +14,10 @@
   Ejemplo: --color-1: #8BD346;
 */
 :root {
-  --color-1: #E4007C;
-  --color-2: #FFC21A;
-  --color-3: #00A6A6;
-  --cuerpo: #FFF6E5;
+  --color-1: #000;
+  --color-2: #FF000;
+  --color-3: #0000FF;
+  --cuerpo: #808080;
 }
 
 /* A partir de aquí no necesitas cambiar nada, pero puedes explorar */
